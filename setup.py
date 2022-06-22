@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='pypi_test',
+    name='fhict_sem1_cb',
     version='0.1',
     license='MIT',
     author="Author Name",
