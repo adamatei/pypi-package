@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='pypi-test',
+    name='pypi_test',
     version='0.1',
     license='MIT',
     author="Author Name",
