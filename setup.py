@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='fhict_sem1_cb',
-    version='0.1',
+    name='fhict_sem1',
+    version='0.2',
     license='MIT',
     author="Author Name",
     author_email='email@example.com',
@@ -11,7 +11,7 @@ setup(
     package_dir={'': 'src'},
     url='https://github.com/adamatei/pypi-package',
     keywords='test project',
-    python_requires="==3.10.0",
+    python_requires=">=3.10.0",
     install_requires=[
         'flask-login',
         'setuptools',
