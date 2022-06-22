@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/pypi-test/__init__.py
+src/pypi-test/pypi-test/__init__.py
+src/pypi-test/pypi-test/test.py
+src/pypi_test.egg-info/PKG-INFO
+src/pypi_test.egg-info/SOURCES.txt
+src/pypi_test.egg-info/dependency_links.txt
+src/pypi_test.egg-info/requires.txt
+src/pypi_test.egg-info/top_level.txt
