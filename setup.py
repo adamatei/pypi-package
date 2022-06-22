@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='fhict_sem1',
-    version='0.2',
+    name='fhict_1',
+    version='0.1',
     license='MIT',
     author="Author Name",
     author_email='email@example.com',
