@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='fhict_1',
+    name='fhict_2',
     version='0.1',
     license='MIT',
     author="Author Name",
@@ -16,7 +16,7 @@ setup(
         'flask-login',
         'setuptools',
         'six==1.16.0',
-        'sqlite==3.36',
+        # 'sqlite==3.36',
         'flask==2.0.2',
         'colorama==0.4.4',
         'pymata4==1.15'
