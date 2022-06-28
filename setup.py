@@ -15,6 +15,7 @@ setup(
     install_requires=[
         'flask-login',
         'sqlalchemy',
+        'flask-sqlalchemy',
         #'setuptools',
         #'six==1.16.0',
         # 'sqlite==3.36',
