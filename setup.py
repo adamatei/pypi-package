@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 setup(
     name='fhict_cb_01',
     version='0.1',
-    license='MIT',
+    license='Fontys',
     author="Author Name",
     author_email='email@example.com',
     packages=find_packages('src'),
