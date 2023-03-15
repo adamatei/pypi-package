@@ -1,7 +1,7 @@
 from pymata4 import pymata4
 
 class CustomPymata4(pymata4.Pymata4):
-
+    # NOTE: using baud_rate 57600 instead of 115200 for stability
     def __init__(self, com_port=None, baud_rate=57600,
                  arduino_instance_id=1, arduino_wait=4,
                  sleep_tune=0.000001,
